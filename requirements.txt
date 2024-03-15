@@ -1,0 +1,16 @@
+asgiref
+click
+colorama
+fastapi
+h11
+importlib-metadata
+pydantic
+python-decouple
+starlette
+typing-extensions
+uvicorn
+zipp
+python-jose
+python-multipart
+pyopenssl==22.1.0
+python-dotenv
